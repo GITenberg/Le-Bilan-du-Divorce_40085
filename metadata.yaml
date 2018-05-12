@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40403
     wikipedia: http://fr.wikipedia.org/wiki/Hugues_Le_Roux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40085#Le-Bilan-du-Divorce
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
